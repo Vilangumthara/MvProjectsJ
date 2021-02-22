@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MvDasKochbuchfuerSingles.iml" filepath="$PROJECT_DIR$/MvDasKochbuchfuerSingles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntellijForSelenium.iml" filepath="$PROJECT_DIR$/IntellijForSelenium.iml" />
     </modules>
   </component>
 </project>
